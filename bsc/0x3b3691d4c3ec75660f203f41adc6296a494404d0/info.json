@@ -1,0 +1,11 @@
+{
+ "name": "Catcoin",
+ "website": "https://catcoincrypto.me/",
+ "description": "Catcoin completely owned and run by its amazing community driven token",
+ "explorer": "https://www.oklink.com/zh-cn/bsc/address/0x3b3691d4c3ec75660f203f41adc6296a494404d0",
+ "type": "BEP20",
+ "symbol": "CATS",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x3b3691d4c3ec75660f203f41adc6296a494404d0"
+}
